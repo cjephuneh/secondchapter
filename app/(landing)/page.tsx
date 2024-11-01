@@ -24,7 +24,7 @@ export default function Component() {
       <main className="container mx-auto px-6 py-12">
         <section className="mb-16 text-center">
           <h1 className="text-5xl font-bold mb-6 bg-gradient-to-r from-purple-400 to-pink-500 text-transparent bg-clip-text">
-            Discover Your Next Literary Adventure
+            Discover Your Next Literary Adventure 
           </h1>
           <p className="text-xl text-gray-400 mb-8">
             Explore thousands of pre-loved books and give them a new home.
