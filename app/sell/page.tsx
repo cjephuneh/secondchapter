@@ -17,7 +17,7 @@ export default function Component() {
             SecondChapter
           </Link>
           <nav className="space-x-6">
-            <Link href="/search" className="hover:text-purple-400 transition-colors">Browse</Link>
+            <Link href="/shop" className="hover:text-purple-400 transition-colors">Browse</Link>
             <Link href="/sell" className="hover:text-purple-400 transition-colors">Sell</Link>
             <Link href="/profile" className="hover:text-purple-400 transition-colors">Profile</Link>
           </nav>
